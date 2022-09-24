@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033232502274",
+    "project_id": "gd6-d-0560",
+    "storage_bucket": "gd6-d-0560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033232502274:android:a38241f7160dbdd910611b",
+        "android_client_info": {
+          "package_name": "com.farell.gd6_d_0560"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033232502274-ug3cm3hjoqur8al10472edk655j1c2rr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7L6lLRMcaoz4s0DHelUtZ_BQfZIBS0Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033232502274-ug3cm3hjoqur8al10472edk655j1c2rr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
